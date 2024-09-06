@@ -9,5 +9,5 @@ This repository is used to test the [PHPloy issue #5](https://github.com/dreadna
 1. Create a temporary SFTP server to test the PHPloy deployment, i.e. on [sftpcloud.io](https://sftpcloud.io/tools/free-sftp-server)
 1. Configurate the PHPloy deployment settings in the `phploy.ini` file
 1. Commit the changes to the repository
-1. Run any PHPloy command, for example: `phploy --force --dryrun`
+1. Run any PHPloy command, for example: `phploy -l`
 1. The "Segmentation fault" error should appear
