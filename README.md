@@ -1,6 +1,6 @@
 # Test repository for PHPloy testing on issue #5
 
-This repository is used to test the [PHPloy issue #5](https://github.com/dreadnaut/PHPloy/issues/5), which is related to a "Segmentation fault" error when running PHPloy.
+This repository is used to test the [PHPloy issue #5](https://github.com/dreadnaut/PHPloy/issues/5), which is related to a "Segmentation fault" error when running PHPloy with SFTP connections.
 
 ## How to reproduce the issue
 
